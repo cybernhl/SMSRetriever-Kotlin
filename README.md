@@ -1,6 +1,5 @@
 # SMSRetriever-Kotlin
-
-# A Simple OTP reading application
+A Simple OTP reading application.
 
 This is a simple android appication that demostrate the use of new SMS Retriever API by google.
 
